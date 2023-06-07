@@ -13,7 +13,7 @@ This material is also used in web-make course [sm.ononeh.net](https://sm.ononeh.
 
 * flask                     `python`
 * Quart                     `python`
-* django                    `python`
+* django & django channels  `python`
 * symfony                   `php`
 * laravel                   `php`
 * Express                   `node / javascript`
